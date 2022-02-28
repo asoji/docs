@@ -5,7 +5,7 @@ title: Yiski's Configuration
 # Yiski's Configuration
 This file is Yiski's own configuration, needs for parts of Yiski to operate.
 
-To use it, cope the `config.example.toml` in your cloned Yiski folder, and rename it to `config.toml`
+To use it, copy the `config.example.toml` in your cloned Yiski folder, and rename it to `config.toml`
 
 ## Config
 ```toml title="config.example.toml"
