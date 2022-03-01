@@ -1,5 +1,5 @@
 ---
-title: Yiski's Discord Commands
+title: Discord Commands
 ---
 
 # Yiski's Discord Commands

@@ -1,11 +1,19 @@
 ---
-title: Yiski's Configuration
+title: Configuration
 ---
 
 # Yiski's Configuration
 This file is Yiski's own configuration, needs for parts of Yiski to operate.
 
 To use it, copy the `config.example.toml` in your cloned Yiski folder, and rename it to `config.toml`
+
+:::danger
+
+Remember to **never** share your `config.toml` with your tokens in it, or else your bot is going to be compromised! 
+
+If you *have* to share it, delete your tokens from the file.
+
+:::
 
 ## Config
 ```toml title="config.example.toml"

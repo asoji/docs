@@ -25,7 +25,7 @@ module.exports = {
             type: 'category',
             label: 'Yiski Bot',
             link: {type: 'doc', id: 'yiski/yiski'},
-            items: ['yiski/discord', 'yiski/revolt', 'yiski/config']
+            items: ['yiski/setup', 'yiski/config', 'yiski/discord', 'yiski/revolt']
         }
     ]
 }

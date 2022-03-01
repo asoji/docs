@@ -1,5 +1,5 @@
 ---
-title: Yiski's Revolt Commands
+title: Revolt Commands
 ---
 
 # Yiski's Revolt Commands
