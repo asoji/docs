@@ -61,6 +61,9 @@ This command currently does not work as intended/is broken.
 ### yk!owo <literally any message here\>
 - Whats this? owoifies any given message :O
 
+### yk!rtx
+<ReactPlayer controls url='https://github.com/asoji/Yiski/blob/main/assets/videos/rtx.mp4?raw=true' />
+
 ### yk!subscript <literally any message here\>
 - Turns a message into tiny subscript text
 
