@@ -62,3 +62,8 @@ ventChannelID = ""
     - `devtools` - Image used for the `devtools` command on the Discord side of the bot, shows what your configuration should look like
     - `ims` - IMS is a brat.
     - `token` - Used for the `token` command to make fun of token leaking
+
+- `[videos]` - Videos for the bot to use
+    - `gasp` - Furry anyone?
+    - `memoryleak` - SEGFAULT go brrr
+    - `whatareyoudoing` - Markiplier looks down on you, please stop.
