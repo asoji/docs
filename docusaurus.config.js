@@ -23,6 +23,11 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve("./sidebars.js"),
+                    remarkPlugins: [
+                        [require('docusaurus-remark-plugin-codetabs'), {
+
+                        }],
+                    ]
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css")
