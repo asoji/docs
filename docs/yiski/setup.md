@@ -25,23 +25,3 @@ This is a small guide on setting up Yiski.
 ## Uninstalling the bot
 
 1. just nuke your yiski folder **lol**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
