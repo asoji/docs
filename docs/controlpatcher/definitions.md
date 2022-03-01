@@ -30,6 +30,9 @@ Read only value, please do not update this version string unless you know what y
 
 ### `gameVer` - User selected Control Version {#gameVer}
 
+- Steam/GOG
+- Epic
+
 ## Patches
 
 ### `IntroSkipPatch` {#introSkip}
