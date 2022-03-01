@@ -36,6 +36,11 @@ ventChannelID = ""
     devtools = "assets/images/devtoolsconfig.png"
     ims = "assets/images/dreadfulims.png"
     token = "assets/images/token.png"
+
+[videos]
+    gasp = "assets/videos/gasp.mp4"
+    memoryleak = "assets/videos/memoryleak.mp4"
+    whatareyoudoing = "assets/videos/whatareyoudoing.mp4"
 ```
 
 ## Explaining each part of the config
