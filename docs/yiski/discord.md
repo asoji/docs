@@ -87,3 +87,6 @@ This command currently does not work as intended/is broken.
 hell.
 :::
 <ReactPlayer controls url='https://github.com/asoji/Yiski/blob/main/assets/videos/whatareyoudoing.mp4?raw=true' />
+
+### yk!zalgo <literally any message here\>
+- Do you ever feel? Lik͚̐͂ȩ͈̋ ȁ̱ͮ P͙̿ͪl̢̬͟a͖͌͆ś̬͌ț͖͟i͖͓͠c̓̎̏ Ḃ̵͔a̳̝̠g͗̌́. L͔̏͠ĭ̦̩ķ̗͞e̢̤ a̝ͨ͞ Ṗ̝̗l̈́ͨ͟a͙͛̚s̫ͧ͡t͙͠͠iͫ̃͠c̨ͫ̇ B̬̿͠à̟ͧg͉̠̍. L̠͌̌iͩ͜͞k͑ͯ͞e̴̛͖ ã̦͞ P̧̭ͦĺ̡͔á̴̝s͎̟͗t̷͔̍i̱͆͝ć͎͑ B̖́̈́a͖̐͠g͚̑̕. L͈͢͞i̦͂͜k̵͕ͣē̷͉ a̤̾͜ P̳ͫ͡l̶͊͆a̷̮͜s̴̾ͧt̺͗̍į̝̈c̴̍ B̦̀̉ą͎̗g͈̊͜.
