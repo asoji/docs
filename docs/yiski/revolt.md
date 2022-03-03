@@ -34,6 +34,12 @@ These commands can only be ran by people who are in the same `ownerRoleName`
 These commands can be run by anyone
 :::
 
+### yk!antihorny
+:::tip
+Please, go touch some grass.
+:::
+<ReactPlayer controls url='https://github.com/asoji/Yiski/blob/main/assets/videos/antihorny.mp4?raw=true' />
+
 ### yk!chaos
 - Generates an image from InspiroBot, normally goes to hell quickly.
 
