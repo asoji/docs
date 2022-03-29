@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "Asoji Docs",
-    tagline: "documenting whatever i decide to throw my way",
-    url: "https://asoji.dev",
+    title: "devOS: Sanity Edition Docs",
+    tagline: "documenting whatever we decide to throw our way",
+    url: "https://docs.devos.one",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -40,7 +40,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: "Asoji Docs",
+                title: "devOS: Sanity Edition Docs",
                 // logo: {
                 //   alt: "My Site Logo",
                 //   src: "img/logo.svg"
@@ -107,7 +107,7 @@ const config = {
                     //   ]
                     // }
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} asoji. Built with Docusaurus.`
+                copyright: `Copyright © ${new Date().getFullYear()} devOS: Sanity Edition. Built with Docusaurus.`
             },
             prism: {
                 theme: lightCodeTheme,
